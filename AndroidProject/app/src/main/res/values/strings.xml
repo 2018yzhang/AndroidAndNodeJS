@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">eBay Catalog Search</string>
+    <string-array name="sortBy">
+        <item>Best Match</item>
+        <item>Price: Highest first</item>
+        <item>Price + Shipping: Highest first</item>
+        <item>Price + Shipping: Lowest first</item>
+    </string-array>
+    <string-array name="sortBy_values">
+        <item>BestMatch</item>
+        <item>CurrentPriceHighest</item>
+        <item>PricePlusShippingHighest</item>
+        <item>PricePlusShippingLowest</item>
+    </string-array>
+
+
+</resources>
